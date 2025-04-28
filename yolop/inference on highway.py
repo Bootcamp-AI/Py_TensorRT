@@ -1,12 +1,3 @@
-''''
-developed by: FIkrat Gasimov
-project: Detect and Segment High Way objects 
-date:01.22.2024
-
-
-''''
-
-
 
 import cv2
 import argparse
